@@ -1,0 +1,8 @@
+python version: 3.6.9
+tkinter version: 8.6
+numpy version: 1.18.5
+matplotlib version: 3.2.1
+opencv version: 4.2.0
+
+
+cmd: python3 filter_app.py
